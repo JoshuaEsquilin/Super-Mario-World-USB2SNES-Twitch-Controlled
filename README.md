@@ -1,0 +1,2 @@
+# Super-Mario-World-USB2SNES-Twitch-Controlled
+By using a SD2SNES connected to a PC (or a PC Emulator/SNES Classic) with Super Mario World, you can modify RAM values on the fly.  This implementation allows Twitch chat to input a RAM address and amount value in the chat box to change the streamer's SMW game.  This is more of a proof of concept since it still needs text formatting and other quality of life fixes. 
